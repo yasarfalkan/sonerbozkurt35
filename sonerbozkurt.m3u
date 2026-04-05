@@ -191,12 +191,7 @@ http://python-worker.dsmartgo.workers.dev/ID=1738739277c7bdedc66c15
 http://python-worker.dsmartgo.workers.dev/ID=1451950581a02a7c237d82
 #EXTINF:-1 group-title=" 4K Ulusal ve Belgesel Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", 4K TR: VIASAT HISTORY HD |D
 http://python-worker.dsmartgo.workers.dev/ID=13351302090309885174f7
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN 1 FEED (720P) |D
-http://python-worker.dsmartgo.workers.dev/ID=1363827223785a15d8757e
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN 1 SD (360P) |D
-http://python-worker.dsmartgo.workers.dev/ID=369233724100976de8b4ea
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN 1 SD (480P) |D
-http://python-worker.dsmartgo.workers.dev/ID=2919229346e755c71b26ac
+
 #EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN BOX OFFICE 1 |E
 http://python-worker.dsmartgo.workers.dev/ID=2930746102f2e4a5b256f5
 #EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN BOX OFFICE 1 |H
@@ -261,79 +256,85 @@ http://python-worker.dsmartgo.workers.dev/ID=727975195eec6107eb17b
 http://python-worker.dsmartgo.workers.dev/ID=3016529666dac6c6cef893
 #EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SERIES VICE |H
 http://python-worker.dsmartgo.workers.dev/ID=11255232626f1b348d06b4
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 + |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN 1 FEED (720P) |D
+http://python-worker.dsmartgo.workers.dev/ID=1363827223785a15d8757e
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN 1 SD (360P) |D
+http://python-worker.dsmartgo.workers.dev/ID=369233724100976de8b4ea
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN 1 SD (480P) |D
+http://python-worker.dsmartgo.workers.dev/ID=2919229346e755c71b26ac
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 + |D
 http://python-worker.dsmartgo.workers.dev/ID=257621689779b8fed9899e
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 50 FPS |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 50 FPS |D
 http://python-worker.dsmartgo.workers.dev/ID=135242105312913bfa342d
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 H265 |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 H265 |D
 http://python-worker.dsmartgo.workers.dev/ID=24034250311fdb297b466e
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 HD (TURKEY) |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 HD (TURKEY) |D
 http://python-worker.dsmartgo.workers.dev/ID=593493860189d11f7fa05
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 HD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 1 HD |D
 http://python-worker.dsmartgo.workers.dev/ID=6621796209b1d59f3eb10
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 |E
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 |E
 http://python-worker.dsmartgo.workers.dev/ID=144724150649fb3ed7eec1
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 |H
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 |H
 http://python-worker.dsmartgo.workers.dev/ID=25094661918ca2565bad99
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 HD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 HD |D
 http://python-worker.dsmartgo.workers.dev/ID=2851539143a8ccc3d357a3
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 SD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 SD |D
 http://python-worker.dsmartgo.workers.dev/ID=32363629118af6d1bc5de8
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 UHD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 2 UHD |D
 http://python-worker.dsmartgo.workers.dev/ID=3694662475b76c08f52108
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 |E
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 |E
 http://python-worker.dsmartgo.workers.dev/ID=17974596029fac8029a46a
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 |H
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 |H
 http://python-worker.dsmartgo.workers.dev/ID=283451494386b77a7c47f0
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 HD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 HD |D
 http://python-worker.dsmartgo.workers.dev/ID=170059580149fb700b1df3
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 SD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 3 SD |D
 http://python-worker.dsmartgo.workers.dev/ID=2063713299b05d8f73388
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 |E
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 |E
 http://python-worker.dsmartgo.workers.dev/ID=3640906370cbcde264f207
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 |H
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 |H
 http://python-worker.dsmartgo.workers.dev/ID=450076655fd40408ed702
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 HD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 HD |D
 http://python-worker.dsmartgo.workers.dev/ID=18722327683304e835920e
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 UHD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4 UHD |D
 http://python-worker.dsmartgo.workers.dev/ID=293826835381972adead05
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4K FEED(KUTU) |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4K FEED(KUTU) |D
 http://python-worker.dsmartgo.workers.dev/ID=267105889df7eebc2e471
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4K FEED(UYDU) |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 4K FEED(UYDU) |D
 http://python-worker.dsmartgo.workers.dev/ID=1536730627473741d29b73
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 (MATCH TIME) |H
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 (MATCH TIME) |H
 http://python-worker.dsmartgo.workers.dev/ID=123044819294be31c3aa03
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 |E
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 |E
 http://python-worker.dsmartgo.workers.dev/ID=383175761899a7add480e9
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 FHD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 FHD |D
 http://python-worker.dsmartgo.workers.dev/ID=400031560107e5581e3624
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 HD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 5 HD |D
 http://python-worker.dsmartgo.workers.dev/ID=273796348642fb87ac24d5
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 8K FEED |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS 8K FEED |D
 http://python-worker.dsmartgo.workers.dev/ID=21134623980ed579742af1
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS FEED (OZEL FEED YAYIN) |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS FEED (OZEL FEED YAYIN) |D
 http://python-worker.dsmartgo.workers.dev/ID=14536923141c3ea015b82f
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER |E
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER |E
 http://python-worker.dsmartgo.workers.dev/ID=11973360003055e9177b38
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER |H
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER |H
 http://python-worker.dsmartgo.workers.dev/ID=2806079612d7dc0e47a926
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER HD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER HD |D
 http://python-worker.dsmartgo.workers.dev/ID=398999553310ffc0558467
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER RAW |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS HABER RAW |D
 http://python-worker.dsmartgo.workers.dev/ID=1646632825716e0af473ba
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 |E
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 |E
 http://python-worker.dsmartgo.workers.dev/ID=12215870672201e11b391e
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 |H
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 |H
 http://python-worker.dsmartgo.workers.dev/ID=2832430535849b88f81e2d
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 FHD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 FHD |D
 http://python-worker.dsmartgo.workers.dev/ID=4071474743f02bc2c5b4b9
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 HD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 1 HD |D
 http://python-worker.dsmartgo.workers.dev/ID=2252814237cb3c5658a25
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 2 |E
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 2 |E
 http://python-worker.dsmartgo.workers.dev/ID=258968235d93582b6e753
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 2 |H
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 2 |H
 http://python-worker.dsmartgo.workers.dev/ID=401729512721e1f1ec3280
-#EXTINF:-1 group-title="Bein Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 2 HD |D
+#EXTINF:-1 group-title=" Bein SPOR Yayınları" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEIN SPORTS MAX 2 HD |D
 http://python-worker.dsmartgo.workers.dev/ID=22126598207be09810152c
 #EXTINF:-1 group-title=" BEST Sinema Yayınları"" tvg-logo="https://i.ibb.co/v68bLf6f/Lokke.jpg", BEST AKSIYON |D
 http://python-worker.dsmartgo.workers.dev/ID=40086029282f9ad3ee9470
